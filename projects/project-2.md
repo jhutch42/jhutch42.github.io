@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../ksc.PNG
+image: ../images/ksc.PNG
 title: Kite St Croix Website
 permalink: projects/kitestcroix
 # All dates must be YYYY-MM-DD format!
