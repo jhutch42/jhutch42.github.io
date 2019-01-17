@@ -29,10 +29,6 @@
   "interests": [
     {
       "name": "machine learning",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ] 
     },
     {
       "name": "data visualization",
