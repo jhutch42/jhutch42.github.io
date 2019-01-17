@@ -12,7 +12,7 @@ labels:
 summary: A website I designed for Morningside Waterports in Miami, FL
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/msw.PNG">
+<img class="ui image" src="../images/msw.PNG">
 
 Morningside Watersports is a watersports company based in Miami Florida.  I designed this website for them in 2016.  I wrote all of the css and HTML code for this website.  
 
