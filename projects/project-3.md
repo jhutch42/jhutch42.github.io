@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/msw.PNG
+image: ../images/msw.PNG
 title: Morningside Watersports Website
 permalink: projects/msw
 # All dates must be YYYY-MM-DD format!
