@@ -19,3 +19,5 @@ Morningside Watersports is a watersports company based in Miami Florida.  I desi
 I created this site with a combination of responsive code and strictly mobile code.  Since this project I have moved to a completely responsive design.  Still, I created this entire site without the use of a template and used it as a learning experience.  I improved greatly in my CSS skills throughout the development process.
 
 This website was also an excellent lesson in dealing with customers when building a business site.  I dealt not only with the owner of the company, but also with a manger who was hired in the middle of the process.  This experience made me a better web designer and a better teamworker.
+
+<a href="http://morningsidewatersports.com/">Morningside Watersports Website</a>
