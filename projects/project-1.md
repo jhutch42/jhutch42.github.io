@@ -18,7 +18,7 @@ summary: I designed and implemented this 3d map for the Hawaii State Energy Offi
 
 The 3d projection map displays a projected map onto a 3d map of the island of Oahu.  The map was designed in the LAVA Lab at UH Manoa to help the Hawaii State Energy Office create an interactive visualization for the data of the 2045 renewable energy plan.  3d printed pucks have a augmented reality marker beneath them that is read by cameras underneath the table.  The pucks coorespond to different layers of data such as solar energy, wind energy, and agricultural lands to name a few.  Another puck can change the year of the data that is being displayed on the map and in the various charts.
 
-I designed the layout of the map, modeled and printed all of the plastic pucks, and designed and implemented all of the code that operates the table.  I worked in collaboration with my colleague who created all of the imagery for the maps and charts using the data provided by the Hawaii State Energy Office.  The application is written in HTML, Javascript, and CSS and runs in a web browser.
+I designed the layout of the map, modeled and printed all of the plastic pucks, and designed and implemented all of the code that operates the table.  I worked in collaboration with my colleague who created all of the imagery for the maps and charts using the data provided by the Hawaii State Energy Office.  The application is written in HTML, Javascript, and CSS and runs in a web browser.  I incorporated the aruco.js augmented reality open source library for the marker detection.
 
 
 
