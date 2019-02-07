@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Reflections of a Rookie Athletic Programmer
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-18
+date: 2019-02-07
 labels:
   - Javascript
   - Software Engineering
