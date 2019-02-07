@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflections of a Rookie Athletic Programmer
+title: Coding Standards (Sufferings)
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-07
 labels:
