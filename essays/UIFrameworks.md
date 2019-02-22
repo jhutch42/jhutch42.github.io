@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: To Frame or not to Frame
 # All dates must be YYYY-MM-DD format!
-date: 2019-02-07
+date: 2019-02-21
 labels:
   - UI Frameworks
   - Semantic UI
