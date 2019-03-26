@@ -17,7 +17,7 @@ labels:
   <li>Member Page:  Regsitered users will have a page where they can see and edit their personal information, view their spaces and account information, and list new spaces.</li>
   <li>View Available Spaces Page:  This page will allow users to find spaces in their desired location</li>
 </ul>
-<hr/>
+<hr>
 <b>Use Cases:</b><br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;There are two classes of usage.  Buyer and Seller.  The buyer will be able to explore the available locations and rent a spot that they desire.  The seller will be able to put their spots up for rental.  They will be able to either rent them long term, in which case they can set their own price, or they can rent them short term, which will be determined by the application to prevent price gouging.  Sellers could be a homeowner, or a business location like a church or even a parking lot that wants to rent some of their spaces long term.<hr>
 <b>Beyond the Basics:</b><br/><br/>
