@@ -14,7 +14,7 @@ Page Ideas:<br/>
 <ul>
   <li>Landing Page:  The landing page will introduce the problem and allow users to sign up.</li>
   <li>Sign Up Page:  A secondary sign up page in case the user first explores the site instead of signing up on the home page.</li>
-  <li>Member Page:  Regsitered users will have a page where they can see and edit their personal information, view their spaces and account information, and list new spaces.<li/>
+  <li>Member Page:  Regsitered users will have a page where they can see and edit their personal information, view their spaces and account information, and list new spaces.</li>
   <li>View Available Spaces Page:  This page will allow users to find spaces in their desired location</li>
 </ul>
 <hr/>
