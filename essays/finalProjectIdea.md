@@ -18,6 +18,4 @@ View Available Spaces Page:  This page will allow users to find spaces in their 
 Use Cases:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;There are two classes of usage.  Buyer and Seller.  The buyer will be able to explore the available locations and rent a spot that they desire.  The seller will be able to put their spots up for rental.  They will be able to either rent them long term, in which case they can set their own price, or they can rent them short term, which will be determined by the application to prevent price gouging.  Sellers could be a homeowner, or a business location like a church or even a parking lot that wants to rent some of their spaces long term.<br/>
 Beyond the Basics</br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;Ideally, the page would be linked to a searchable map that will show all available spaces with a proximity to the user or their desired location.  The application will automatically update when new spaces become available or become unavailable.  Sellers can limit the size of the vehicles that are allowed to park in their spaces, and set the hours that renters can stay.<br/>
