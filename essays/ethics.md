@@ -2,7 +2,7 @@
 layout: essay 
 type: essay
 title: "Ethical Software Engineering"
-date: 2019-03-26
+date: 2019-04-18
 labels:
   - Software Engineering
   - Ethics
