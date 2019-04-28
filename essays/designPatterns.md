@@ -2,7 +2,7 @@
 layout: essay 
 type: essay
 title: "Kiteboarding and Software Design, basically the same thing."
-date: 2019-04-17
+date: 2019-04-27
 labels:
   - Software Engineering
   - Design Patterns
