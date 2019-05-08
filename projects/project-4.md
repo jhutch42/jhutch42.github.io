@@ -23,3 +23,5 @@ I personally wrote the code for the search page, the add food page, the add revi
 
 <img class="ui image" src="../images/hangryfixsearch.PNG">
 
+One of the greatest challenges I faced was working with eslint.  I have been writing Javascript code for years and I now had to change my style to match the standards.  I found it beneficial that all three of us in the group were using the same style, as reading code that my teammates had written was easier than it would have been otherwise.
+
