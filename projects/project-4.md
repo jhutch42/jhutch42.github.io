@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/hangryfix landing.png
+image: ../images/hangryfix landing.PNG
 title: HangryFix Web Application
 permalink: projects/hangryfix
 # All dates must be YYYY-MM-DD format!
@@ -15,4 +15,4 @@ labels:
 summary: I designed and implemented this 3d map for the Hawaii State Energy Office
 ---
 
-  <img class="ui image" src="../images/hangryfix landing.jpg">
+  <img class="ui image" src="../images/hangryfix landing.PNG">
