@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/arMap.jpg
+image: ../images/table-home.jpg
 title: 3d Projection Map
 permalink: projects/projectionMap
 # All dates must be YYYY-MM-DD format!
