@@ -13,7 +13,7 @@ labels:
 summary: I designed and implemented this 3d map for the Hawaii State Energy Office
 ---
 
-  <img class="ui image" src="../images/table.jpg">
+  <img class="ui image" src="../images/table-home.jpg">
 
 
 This 3d map was developed for the Hawaii state Energy office.  Its purpose is to describe possible renewable energy scenarios in a new and powerful way.  The map projects an image onto a 3d printed island of Oahu.  It overlays layers of data such as solar energy, wind energy, Agriultural lands, and DOD lands.  Different tangibles allow for user interaction such as advancing and retreating in time by year, changing the scenario, swapping between charts, and adding/removing layers.
