@@ -22,5 +22,7 @@ I developed the design of the table and all of the functionalitym while working 
 
 The map software uses a JS library called aruco.js.  I 3d printed the AR markers and attached them to the tangibles I created that are illuminated with small usb flashlights that make it possible for cameras to detect the markers beneath the table.  The table software tracks the markers and uses the position of the corners to detect rotation, which makes it possible to twist them to change year, charts, and so on.
 
+You can see how the table works on this video: <a href="https://youtu.be/IlBFM66nbN8">https://youtu.be/IlBFM66nbN8</a>
+
 The map has traveled as far as Washington, DC where it was demoed at a national energy conference.  It has been featured on the local news, as well as in the UH Manoa newsletter.  The table is still under construction and I am currently in the process of modifying the tangible technology so that the flashlights are no longer needed.  We currently have interest in creating additional tables for NOAA and from HECO, and others.
 
