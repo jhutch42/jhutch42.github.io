@@ -22,6 +22,7 @@ Hangry Fix was created as a final project for a Software Engineering course at U
 
 <h1>My Responsibilities</h1>
 I personally wrote the code for the search page, the add food page, the add review page, and the edit review page, and helped on many others.  I was experienced in Javascript, HTML, and CSS before this project, but I had only just learned Meteor, Semantic UI, and react during the class this semester.  Combining these tools was a challenge that was rewarding to overcome.  I was able to share my knowledge with my teammates when they were stuck and likewise, I found that they had knowledge that helped me pass hurdles that slowed me down.  I had never used a CSS framework like semantic-ui before this semester and it was a challenge to overcome the limitations of prepackage CSS elements, but at the same time, it made it possible to work seamlessly with my group who had less experience in CSS.
+<br/>
 
 <img class="ui image" src="../images/hangryfixsearch.PNG">
 
